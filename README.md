@@ -5,15 +5,15 @@
 </div> 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/images/go-icon-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/images/go-icon-light.png">
+  <!-- <source media="(prefers-color-scheme: dark)" srcset="./assets/images/android-icon-dark.png"> -->
+  <source srcset="./assets/images/android-icon-dark.png">
   <img src="https://github.com/laxy-me">
 </picture>
 
 
-- 🖖 Hi, I’m Pan
+- 🖖 Hi, I’m Laxy
   
-- 🌱 Currently learning  <a href="https://go.dev/"><img src="./assets/images/go.png" width="50px" height="auto"></a>
+- 🌱 Currently learning  <a href="https://developer.android.com/jetpack/compose"><img src="./assets/images/android-jetpack.svg" width="50px" height="auto"></a>
 
 - ⛵ Passionate about open source.
   
