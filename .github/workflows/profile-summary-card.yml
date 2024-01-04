@@ -32,6 +32,7 @@ jobs:
           mv ./profile-summary-card-output/github/4-productive-time.svg ./assets/images/github-productive-time.svg
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git pull
           git add ./assets/images
           git commit -m "Update profile summary card"
           git push
