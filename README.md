@@ -4,6 +4,9 @@
     </a>
 </div> 
 
+[//]: # ([![Typing SVG]&#40;https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;println&#40;%22Hello+World!%22&#41;&#41;]&#40;https://git.io/typing-svg&#41;)
+[//]: # (<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+%F0%9F%91%8B;println&#40;%22Hello+World!%22&#41;" alt="Typing SVG" /></a>)
+
 <picture>
   <!-- <source media="(prefers-color-scheme: dark)" srcset="./assets/images/android-icon-dark.png"> -->
   <source srcset="./assets/images/android-icon-dark.png">
