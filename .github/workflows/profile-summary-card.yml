@@ -30,6 +30,7 @@ jobs:
           mv ./profile-summary-card-output/github_dark/4-productive-time.svg ./assets/images/github-productive-time-dark.svg
           mv ./profile-summary-card-output/github/0-profile-details.svg ./assets/images/github-profile-details.svg
           mv ./profile-summary-card-output/github/4-productive-time.svg ./assets/images/github-productive-time.svg
+          rm -rf ./profile-summary-card-output
 
       - name: Git Auto Commit
       # You may pin to the exact commit or the version.
