@@ -39,4 +39,4 @@ jobs:
         with:
           # Commit message
           commit_message: "Update profile summary card" # optional, default is Apply automatic changes
-          commit_author: Author <github-actions[bot]>
+          commit_author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
